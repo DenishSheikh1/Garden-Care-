@@ -906,7 +906,7 @@
 	  text-align: center;
 	}
 	.service-text {
-		min-height:138px;
+		/* min-height:138px; */
 	}
 	.service-left-bg {
 	  height: 138px;
@@ -1116,7 +1116,7 @@
 		padding-right: 15px;
 	}
 	.service-text {
-	  padding-top: 40px;
+	  /* padding-top: 40px; */
 	}
 	.company-history-list ul.history-left-list {
 	  margin-right: 40px;

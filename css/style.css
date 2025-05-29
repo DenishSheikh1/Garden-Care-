@@ -6908,9 +6908,9 @@ footer.gardener .quick-links li a:before {
 }
 .service-text {
   overflow: hidden;
-  padding-bottom: 15px;
+  /* padding-bottom: 15px;
   padding-top: 21px;
-  padding-right: 10px;
+  padding-right: 10px; */
 }
 .service-text h4 {
   color: #242424;
